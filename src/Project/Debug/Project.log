@@ -1,0 +1,164 @@
+﻿  transform.cpp
+  texture.cpp
+  shader.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\graphics\project\project\gl\glfw3.h(98): note: see previous definition of 'APIENTRY'
+  projection.cpp
+  mathematics.cpp
+  main.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\graphics\project\project\gl\glfw3.h(98): note: see previous definition of 'APIENTRY'
+c:\graphics\project\project\main.cpp(30): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\graphics\project\project\main.cpp(36): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\graphics\project\project\main.cpp(36): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\graphics\project\project\main.cpp(99): warning C4305: 'argument': truncation from 'const double' to 'float'
+c:\graphics\project\project\main.cpp(113): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\graphics\project\project\main.cpp(135): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\graphics\project\project\main.cpp(267): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\graphics\project\project\main.cpp(301): warning C4305: 'argument': truncation from 'const double' to 'float'
+c:\graphics\project\project\main.cpp(320): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\main.cpp(321): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\graphics\project\project\main.cpp(355): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  vertex.cpp
+  shadow.cpp
+  mesh.cpp
+  drawing.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\graphics\project\project\gl\glfw3.h(98): note: see previous definition of 'APIENTRY'
+c:\graphics\project\project\drawing.cpp(35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(137): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(138): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(139): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(141): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(142): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\drawing.cpp(143): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  camera.cpp
+c:\graphics\project\project\camera.cpp(12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\camera.cpp(16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\camera.cpp(27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\camera.cpp(106): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\graphics\project\project\camera.cpp(109): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\graphics\project\project\camera.cpp(112): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\graphics\project\project\camera.cpp(115): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\graphics\project\project\camera.cpp(128): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\graphics\project\project\camera.cpp(129): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+drawing.obj : error LNK2019: unresolved external symbol __imp__glDrawArrays@12 referenced in function "void __cdecl drawBox(unsigned int,unsigned int,unsigned int,unsigned int,unsigned int)" (?drawBox@@YAXIIIII@Z)
+mesh.obj : error LNK2001: unresolved external symbol __imp__glDrawArrays@12
+drawing.obj : error LNK2001: unresolved external symbol __imp____glewBindBuffer
+mesh.obj : error LNK2001: unresolved external symbol __imp____glewBindBuffer
+drawing.obj : error LNK2001: unresolved external symbol __imp____glewBufferData
+mesh.obj : error LNK2001: unresolved external symbol __imp____glewBufferData
+drawing.obj : error LNK2001: unresolved external symbol __imp____glewGenBuffers
+mesh.obj : error LNK2001: unresolved external symbol __imp____glewGenBuffers
+drawing.obj : error LNK2001: unresolved external symbol __imp____glewDisableVertexAttribArray
+mesh.obj : error LNK2001: unresolved external symbol __imp____glewDisableVertexAttribArray
+drawing.obj : error LNK2001: unresolved external symbol __imp____glewEnableVertexAttribArray
+mesh.obj : error LNK2001: unresolved external symbol __imp____glewEnableVertexAttribArray
+drawing.obj : error LNK2001: unresolved external symbol __imp____glewVertexAttribPointer
+mesh.obj : error LNK2001: unresolved external symbol __imp____glewVertexAttribPointer
+mesh.obj : error LNK2019: unresolved external symbol "public: __thiscall Assimp::Importer::Importer(void)" (??0Importer@Assimp@@QAE@XZ) referenced in function "public: bool __thiscall Mesh::loadMesh(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int,bool)" (?loadMesh@Mesh@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H_N@Z)
+mesh.obj : error LNK2019: unresolved external symbol "public: __thiscall Assimp::Importer::~Importer(void)" (??1Importer@Assimp@@QAE@XZ) referenced in function "public: bool __thiscall Mesh::loadMesh(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int,bool)" (?loadMesh@Mesh@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H_N@Z)
+mesh.obj : error LNK2019: unresolved external symbol "public: struct aiScene const * __thiscall Assimp::Importer::ReadFile(char const *,unsigned int)" (?ReadFile@Importer@Assimp@@QAEPBUaiScene@@PBDI@Z) referenced in function "public: bool __thiscall Mesh::loadMesh(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int,bool)" (?loadMesh@Mesh@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H_N@Z)
+mesh.obj : error LNK2019: unresolved external symbol "public: char const * __thiscall Assimp::Importer::GetErrorString(void)const " (?GetErrorString@Importer@Assimp@@QBEPBDXZ) referenced in function "public: bool __thiscall Mesh::loadMesh(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int,bool)" (?loadMesh@Mesh@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H_N@Z)
+mesh.obj : error LNK2019: unresolved external symbol _aiGetMaterialTextureCount referenced in function "public: unsigned int __thiscall aiMaterial::GetTextureCount(enum aiTextureType)const " (?GetTextureCount@aiMaterial@@QBEIW4aiTextureType@@@Z)
+mesh.obj : error LNK2019: unresolved external symbol _aiGetMaterialTexture referenced in function "public: enum aiReturn __thiscall aiMaterial::GetTexture(enum aiTextureType,unsigned int,struct aiString *,enum aiTextureMapping *,unsigned int *,float *,enum aiTextureOp *,enum aiTextureMapMode *)const " (?GetTexture@aiMaterial@@QBE?AW4aiReturn@@W4aiTextureType@@IPAUaiString@@PAW4aiTextureMapping@@PAIPAMPAW4aiTextureOp@@PAW4aiTextureMapMode@@@Z)
+mesh.obj : error LNK2019: unresolved external symbol __imp__glDrawElements@16 referenced in function "public: void __thiscall Mesh::render(class vec3,class mat4)" (?render@Mesh@@QAEXVvec3@@Vmat4@@@Z)
+mesh.obj : error LNK2001: unresolved external symbol __imp____glewDeleteBuffers
+shadow.obj : error LNK2019: unresolved external symbol __imp__glBindTexture@8 referenced in function "public: void __thiscall ShadowMapFBO::bindForReading(unsigned int)" (?bindForReading@ShadowMapFBO@@QAEXI@Z)
+texture.obj : error LNK2001: unresolved external symbol __imp__glBindTexture@8
+shadow.obj : error LNK2019: unresolved external symbol __imp__glDrawBuffer@4 referenced in function "public: bool __thiscall ShadowMapFBO::init(unsigned int,unsigned int)" (?init@ShadowMapFBO@@QAE_NII@Z)
+shadow.obj : error LNK2019: unresolved external symbol __imp__glGenTextures@8 referenced in function "public: bool __thiscall ShadowMapFBO::init(unsigned int,unsigned int)" (?init@ShadowMapFBO@@QAE_NII@Z)
+texture.obj : error LNK2001: unresolved external symbol __imp__glGenTextures@8
+shadow.obj : error LNK2019: unresolved external symbol __imp__glTexImage2D@36 referenced in function "public: bool __thiscall ShadowMapFBO::init(unsigned int,unsigned int)" (?init@ShadowMapFBO@@QAE_NII@Z)
+texture.obj : error LNK2001: unresolved external symbol __imp__glTexImage2D@36
+shadow.obj : error LNK2019: unresolved external symbol __imp__glTexParameterf@12 referenced in function "public: bool __thiscall ShadowMapFBO::init(unsigned int,unsigned int)" (?init@ShadowMapFBO@@QAE_NII@Z)
+texture.obj : error LNK2001: unresolved external symbol __imp__glTexParameterf@12
+shadow.obj : error LNK2001: unresolved external symbol __imp____glewActiveTexture
+texture.obj : error LNK2001: unresolved external symbol __imp____glewActiveTexture
+shadow.obj : error LNK2001: unresolved external symbol __imp____glewBindFramebuffer
+main.obj : error LNK2001: unresolved external symbol __imp____glewBindFramebuffer
+shadow.obj : error LNK2001: unresolved external symbol __imp____glewCheckFramebufferStatus
+shadow.obj : error LNK2001: unresolved external symbol __imp____glewDeleteFramebuffers
+shadow.obj : error LNK2001: unresolved external symbol __imp____glewFramebufferTexture2D
+shadow.obj : error LNK2001: unresolved external symbol __imp____glewGenFramebuffers
+main.obj : error LNK2019: unresolved external symbol __imp__glBlendFunc@8 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glClear@4 referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp__glClearColor@16 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glDepthFunc@4 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glEnable@4 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glewInit@0 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glutInitWindowPosition@8 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glutInitWindowSize@8 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glutInitDisplayMode@4 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glutMainLoop@0 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glutSwapBuffers@0 referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp__glutWarpPointer@8 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glutIdleFunc@4 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glutKeyboardFunc@4 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glutSpecialFunc@4 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glutDisplayFunc@4 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glutPassiveMotionFunc@4 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp____glutInitWithExit@12 referenced in function _glutInit_ATEXIT_HACK@8
+main.obj : error LNK2019: unresolved external symbol __imp____glutCreateWindowWithExit@8 referenced in function _glutCreateWindow_ATEXIT_HACK@4
+main.obj : error LNK2001: unresolved external symbol __imp____glewGetUniformLocation
+main.obj : error LNK2001: unresolved external symbol __imp____glewUniform1i
+main.obj : error LNK2001: unresolved external symbol __imp____glewUniform3f
+main.obj : error LNK2001: unresolved external symbol __imp____glewUniformMatrix4fv
+main.obj : error LNK2001: unresolved external symbol __imp____glewUseProgram
+shader.obj : error LNK2001: unresolved external symbol __imp____glewAttachShader
+shader.obj : error LNK2001: unresolved external symbol __imp____glewCompileShader
+shader.obj : error LNK2001: unresolved external symbol __imp____glewCreateProgram
+shader.obj : error LNK2001: unresolved external symbol __imp____glewCreateShader
+shader.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramInfoLog
+shader.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramiv
+shader.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderInfoLog
+shader.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderiv
+shader.obj : error LNK2001: unresolved external symbol __imp____glewLinkProgram
+shader.obj : error LNK2001: unresolved external symbol __imp____glewShaderSource
+shader.obj : error LNK2001: unresolved external symbol __imp____glewValidateProgram
+texture.obj : error LNK2019: unresolved external symbol __imp__FreeImage_Unload@4 referenced in function "public: bool __thiscall Texture::load(void)" (?load@Texture@@QAE_NXZ)
+texture.obj : error LNK2019: unresolved external symbol __imp__FreeImage_Load@12 referenced in function "public: bool __thiscall Texture::load(void)" (?load@Texture@@QAE_NXZ)
+texture.obj : error LNK2019: unresolved external symbol __imp__FreeImage_GetFIFFromFilename@4 referenced in function "public: bool __thiscall Texture::load(void)" (?load@Texture@@QAE_NXZ)
+texture.obj : error LNK2019: unresolved external symbol __imp__FreeImage_FIFSupportsReading@4 referenced in function "public: bool __thiscall Texture::load(void)" (?load@Texture@@QAE_NXZ)
+texture.obj : error LNK2019: unresolved external symbol __imp__FreeImage_GetFileType@8 referenced in function "public: bool __thiscall Texture::load(void)" (?load@Texture@@QAE_NXZ)
+texture.obj : error LNK2019: unresolved external symbol __imp__FreeImage_GetBits@4 referenced in function "public: bool __thiscall Texture::load(void)" (?load@Texture@@QAE_NXZ)
+texture.obj : error LNK2019: unresolved external symbol __imp__FreeImage_GetBPP@4 referenced in function "public: bool __thiscall Texture::load(void)" (?load@Texture@@QAE_NXZ)
+texture.obj : error LNK2019: unresolved external symbol __imp__FreeImage_GetWidth@4 referenced in function "public: bool __thiscall Texture::load(void)" (?load@Texture@@QAE_NXZ)
+texture.obj : error LNK2019: unresolved external symbol __imp__FreeImage_GetHeight@4 referenced in function "public: bool __thiscall Texture::load(void)" (?load@Texture@@QAE_NXZ)
+assimp.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+freeglut.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+FreeImage.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+glew32.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+OpenGL32.Lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Graphics\Project\Debug\Project.exe : fatal error LNK1120: 70 unresolved externals
